@@ -1,0 +1,2 @@
+# CloudSimCoresident
+为cloudsim增加安全分配策略
