@@ -1,0 +1,40 @@
+1540087459777	Delete element
+1540087464282	Delete element
+1540087713372	Delete elements
+1540087836456	Move package
+1540087997899	Rename package 'org.iie.cloudsim'
+1540088040354	Rename package 'org.iie.clodsim.util'
+1540088088931	Rename package 'org.iie.cloudsim.drl.tests'
+1540088903380	Delete element
+1540089975615	Move compilation units
+1540090196976	Move compilation unit
+1540090410947	Rename package 'planetlab'
+1540103525393	Move compilation unit
+1540110317177	Rename type 'RunnerAbstract'
+1540110335740	Delete element
+1540110434289	Delete element
+1540110439743	Delete element
+1540110455837	Delete element
+1540110467415	Delete element
+1540121126050	Rename type 'Constants'
+1540121136222	Rename type 'Helper'
+1540121150848	Rename type 'Runner'
+1540168884179	Delete element
+1540192002507	Delete element
+1540200158473	Move compilation unit
+1540207639016	Rename field 'FILE_PATH'
+1540207903959	Encapsulate field 'filePath'
+1540211324164	Delete element
+1540213669206	Rename field 'NUMBER_OF_HOST_SLOTS'
+1540213923334	Rename type 'CSVUtils'
+1540262840439	Rename field 'user_vms_map'
+1540262848105	Encapsulate field 'userVmsMap'
+1540280445983	Encapsulate field 'startTimeInCurHost'
+1540294492484	Rename type 'MathUtil'
+1540362867800	Encapsulate field 'userVmsIdsMap'
+1540362927679	Rename field 'userVmsIdsMap'
+1540363092882	Encapsulate field 'userVmsMap'
+1540435374421	Rename method 'getCurHostCpuUtil'
+1540456104906	Rename method 'updateLocationState'
+1540459277444	Rename local variable 'totalCoThreatPerSeond'
+1540459327270	Rename local variable 'avgTotalCoThreatPerSeond'

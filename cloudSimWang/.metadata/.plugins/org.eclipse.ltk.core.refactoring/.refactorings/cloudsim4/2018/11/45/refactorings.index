@@ -1,0 +1,4 @@
+1541384687378	Rename local variable 'experience'
+1541386219302	Rename local variable 'record'
+1541487755317	Rename method 'updateRewardForDeallocate'
+1541641983631	Encapsulate field 'requestAlloTime'
